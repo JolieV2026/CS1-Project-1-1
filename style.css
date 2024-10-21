@@ -1,1 +1,35 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@100..700&family=Oswald:wght@200..700&display=swap');
+body {
+    font-family: "Arima", system-ui;
+    background: radial-gradient(circle at 12.3% 19.3%, rgb(85, 88, 218) 0%, rgb(95, 209, 249) 100.2%);
+
+    font-weight: 200;
+
+}
+
+p {
+    color: rgb(239, 136, 67); 
+
+}
+h1, h2, h3 {
+    font-family: Oswald;
+    color: rgb(0, 238, 255)
+    
+    }
+
+
+    
+    
+    .centered {
+        text-align: center;
+        margin: auto;
+    }
+
+    img {
+        border-width: 20px;
+        border-style: double;
+        border-color: rgb(168, 255, 105);
+        border-radius: 50%;
+        padding: 5px;
